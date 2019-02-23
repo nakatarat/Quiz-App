@@ -1,5 +1,5 @@
 # Quiz-App
-A client-side quiz app made with Vanilla JavaScript.
+A client-side quiz app made with Vanilla JavaScript. It uses the Fetch API to grab JSON data from the local quiz.json file.
 
 My submission for the App Developer entrance project.
 
